@@ -1,6 +1,6 @@
 
 
-##**Tic-Tac-Toe Game**
+**Tic-Tac-Toe Game**
 
 A simple web-based Tic-Tac-Toe game built with JavaScript, HTML, and CSS. Enjoy the classic two-player game or challenge a computer opponent!
 
@@ -20,6 +20,6 @@ A simple web-based Tic-Tac-Toe game built with JavaScript, HTML, and CSS. Enjoy 
 ## **Installation**
 1. Clone the repo:
    ```bash
-   git clone 
+   git clone https://github.com/chamz99/Game.git
    ```
 2. Open `index.html` in a browser to start playing.
